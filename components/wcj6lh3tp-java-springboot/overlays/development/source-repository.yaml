@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wcj6lh3tp-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wcj6lh3tp-java-springboot
